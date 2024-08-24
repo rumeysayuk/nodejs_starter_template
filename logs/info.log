@@ -1,0 +1,125 @@
+{
+  meta: {
+    req: {
+      url: '/api/auth/register',
+      headers: {
+        'content-type': 'application/json',
+        'user-agent': 'PostmanRuntime/7.41.0',
+        accept: '*/*',
+        'postman-token': '6bd77069-7fe2-4781-a8ea-10eb626cbf23',
+        host: 'localhost:5000',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '199'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/api/auth/register',
+      query: {}
+    },
+    res: { statusCode: 500 },
+    responseTime: 10058
+  },
+  level: 'error',
+  message: 'HTTP POST /api/auth/register'
+}
+{
+  meta: {
+    req: {
+      url: '/api/auth/register',
+      headers: {
+        'content-type': 'application/json',
+        'user-agent': 'PostmanRuntime/7.41.0',
+        accept: '*/*',
+        'postman-token': 'c31c8262-3ca3-4e09-af24-f6fdde235a1e',
+        host: 'localhost:5000',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '199'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/api/auth/register',
+      query: {}
+    },
+    res: { statusCode: 500 },
+    responseTime: 10016
+  },
+  level: 'error',
+  message: 'HTTP POST /api/auth/register'
+}
+{
+  meta: {
+    req: {
+      url: '/api/auth/register',
+      headers: {
+        'content-type': 'application/json',
+        'user-agent': 'PostmanRuntime/7.41.0',
+        accept: '*/*',
+        'postman-token': 'b7769562-4625-4c6f-a2f1-b6a51f69486b',
+        host: 'localhost:5000',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '199'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/api/auth/register',
+      query: {}
+    },
+    res: { statusCode: 500 },
+    responseTime: 10068
+  },
+  level: 'error',
+  message: 'HTTP POST /api/auth/register'
+}
+{
+  meta: {
+    req: {
+      url: '/api/auth/register',
+      headers: {
+        'content-type': 'application/json',
+        'user-agent': 'PostmanRuntime/7.41.0',
+        accept: '*/*',
+        'postman-token': 'b1762c61-da4d-4181-b2a0-d556ba863472',
+        host: 'localhost:5000',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '199'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/api/auth/register',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 181
+  },
+  level: 'info',
+  message: 'HTTP POST /api/auth/register'
+}
+{
+  meta: {
+    req: {
+      url: '/api/auth/login',
+      headers: {
+        'content-type': 'application/json',
+        'user-agent': 'PostmanRuntime/7.41.0',
+        accept: '*/*',
+        'postman-token': '1c63754d-8b55-4dc4-af36-e821b9473994',
+        host: 'localhost:5000',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '72'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/api/auth/login',
+      query: {}
+    },
+    res: { statusCode: 401 },
+    responseTime: 9
+  },
+  level: 'warn',
+  message: 'HTTP POST /api/auth/login'
+}
